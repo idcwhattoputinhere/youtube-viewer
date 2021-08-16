@@ -16,7 +16,7 @@ jobs:
     - name: amogus
       run: |
         cd $GITHUB_WORKSPACE
-        npm start
+        ls
 
     # - name: cd working directory
 
