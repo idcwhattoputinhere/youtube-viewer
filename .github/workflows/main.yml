@@ -15,4 +15,4 @@ jobs:
 
     - name: start
 
-      run: ls
+      run: docker-compose up --scale ytview=5
