@@ -1,5 +1,5 @@
 
-name: NoahRDP
+name: VIEWER
 
 on: workflow_dispatch
 
