@@ -15,4 +15,4 @@ jobs:
 
     - name: start
 
-      run: npm start ytview=5
+      run: ls
