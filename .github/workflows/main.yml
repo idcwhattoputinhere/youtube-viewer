@@ -1,0 +1,15 @@
+name: Youtube_Viewer
+
+on: workflow_dispatch
+
+jobs:
+  
+  build:
+    
+    runs-on: ubuntu-20.04
+
+      steps: 
+      
+      - name: starting viewer
+
+      run: npm start ytview=8
