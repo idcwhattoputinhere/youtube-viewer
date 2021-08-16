@@ -15,7 +15,7 @@ jobs:
 
     - name: amogus
       run: |
-        cd {{ GITHUB_WORKSPACE }}
+        cd ${{ GITHUB_WORKSPACE }}
         npm start
 
     # - name: cd working directory
